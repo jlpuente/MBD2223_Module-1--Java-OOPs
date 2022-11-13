@@ -1,0 +1,4 @@
+Espeto: l= 36,68 L= -4,4 R= 350 V= 20
+Concha-Fina: l= 36,7 L= -4,35 R= 259 V= 24
+Chanquete: l= 36,71 L= -4,37 R= 270 V=33
+Boquerón: l=36,69 L= -4,39 R= 320 V= 14

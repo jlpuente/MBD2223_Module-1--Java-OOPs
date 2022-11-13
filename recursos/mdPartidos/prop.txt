@@ -1,0 +1,36 @@
+P.P. : 123655, 9
+P.S.O.E. : 57245, 5
+IULV-CA : 25354, 2
+UPyD : 8099, 1
+LOS VERDES : 3197, 1
+CvM - EP-basic.And. : 1514, 1
+CENB : 1431, 1
+PACMA : 1098, 1
+C's : 722, 1
+PIRATA : 718, 1
+PDLPEA : 534, 1
+PARTICIPA : 533, 1
+P.C.P.E. : 428, 1
+A.u.N. : 375, 1
+FE de las JONS : 301, 1
+PH : 279, 1
+SAIn : 260, 1
+U.C.E. : 102, 1
+P.P. : 123655, 9
+P.S.O.E. : 57245, 5
+IULV-CA : 25354, 2
+UPyD : 8099, 1
+LOS VERDES : 3197, 1
+CvM - EP-basic.And. : 1514, 1
+CENB : 1431, 1
+PACMA : 1098, 1
+C's : 722, 1
+PIRATA : 718, 1
+PDLPEA : 534, 1
+PARTICIPA : 533, 1
+P.C.P.E. : 428, 1
+A.u.N. : 375, 1
+FE de las JONS : 301, 1
+PH : 279, 1
+SAIn : 260, 1
+U.C.E. : 102, 1

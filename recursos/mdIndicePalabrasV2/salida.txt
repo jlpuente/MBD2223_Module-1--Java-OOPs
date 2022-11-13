@@ -1,0 +1,12 @@
+guerra	1
+hombre	2
+jarra	1
+oiga	2
+parra	1
+pegado	2
+pegó	2
+perra	1
+porra	2
+rompió	1
+roto	3
+usted	2

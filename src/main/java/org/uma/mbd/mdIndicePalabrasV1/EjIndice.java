@@ -1,0 +1,30 @@
+package org.uma.mbd.mdIndicePalabrasV1;
+
+import org.uma.mbd.mdIndicePalabrasV1.indices.Indice;
+import org.uma.mbd.mdIndicePalabrasV1.indices.IndicePosicionesEnLineas;
+
+import java.util.List;
+
+public class EjIndice {
+    public static void main(String args[]) {
+	String delimitadores = "[ .,:;-[¡]!¿?]+";
+	List<String> noSignificativas = 
+		List.of("A", "buen", "con", "de", "ha", "hubiera",
+				"la", "NO", "pero", "Por", "porque", "qué",
+				"si", "tenía", "una", "y");
+	//Indice cp = new Indice1aLinea();
+		//Indice cp = new IndiceLineas();
+	Indice cp = new IndicePosicionesEnLineas();
+	cp.agregarLinea("Guerra tenía una jarra y Parra tenía una perra, "
+			+ "pero la perra de Parra rompió la jarra de Guerra.");
+	cp.agregarLinea("Guerra pegó con la porra a la perra de Parra. "
+			+ "¡Oiga usted buen hombre de Parra! "
+			+ "Por qué ha pegado con la porra a la perra de Parra.");
+	cp.agregarLinea("Porque si la perra de Parra no hubiera roto "
+			+ "la jarra de Guerra, "
+			+ "Guerra no hubiera pegado con la porra " 
+			+ "a la perra de Parra.");
+	cp.resolver(delimitadores, noSignificativas);
+	cp.presentarIndiceConsola();
+    }
+}
