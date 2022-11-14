@@ -1,2 +1,2 @@
-# MBD2223_Module-1--Java-OOPs
-Máster of Big Data and Artificial Intelligence 2022-2023 (University of Málaga).
+# MBD2223
+## Module 1 is about object oriented programming in Java
