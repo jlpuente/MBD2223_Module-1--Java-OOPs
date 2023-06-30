@@ -1,2 +1,5 @@
-# MBD2223_Module-1-Java-OOPs
-Máster of Big Data and Artificial Intelligence 2022-2023 (University of Málaga).
+# Some Java programs
+
+**Note**: select dev branch to see source files.
+
+Repository for my practises in object-oriented programming in Java for my MSc in Big Data and Artificial Intelligence (2022-2023).
