@@ -1,3 +1,3 @@
 # This is the dev branch but everything is okay
 
-You'll find the entire source code in this branch. 
+You'll find the program wordings in **wordings** folder and the entire code in this branch. 
