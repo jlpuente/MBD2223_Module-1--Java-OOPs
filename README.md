@@ -1,3 +1,1 @@
-# This is the dev branch but everything is okay
-
-You'll find the program wordings in **wordings** folder and the entire code in this branch. 
+*Yes, this is the dev branch but everything is okay*. You'll find the assignment wordings in **wordings** folder. The entire code is in this branch at the end of the hierarchical directory heading by **src** folder. 
